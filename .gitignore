@@ -1,0 +1,2 @@
+-e "# Ignore Visual Studio files\n.vs/\n# Other ignore rules..." 
+-e "# Ignore Visual Studio files\n.vs/" 

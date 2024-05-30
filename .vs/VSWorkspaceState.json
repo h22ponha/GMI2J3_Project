@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TicketShop",
-    "\\TicketShop\\TicketShopClassLibrary",
-    "\\TicketShop\\TicketShopClassLibrary\\Account"
+    ""
   ],
-  "SelectedNode": "\\TicketShop\\TicketShopClassLibrary\\Account\\PersonalAccount.cs",
+  "SelectedNode": "\\TicketShop.sln",
   "PreviewInSolutionExplorer": false
 }
