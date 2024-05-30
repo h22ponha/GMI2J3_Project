@@ -35,15 +35,15 @@ namespace TicketShopTest
             _shoppingCart = new ShoppingCart(_mockEvent.Object);
         }
 
-        [TestMethod]
-        public void Test_AddToCart_WithinLimit()
+        [TestMethod]  
+        public void Test_AddToCart_WithinLimit() //Testar om shoppingcarten kan hålla en biljett
         {
             _shoppingCart.AddToCart(1, 1, "A");
             Assert.AreEqual(1, _shoppingCart.ListOfReservedTickets.Count);
         }
 
         [TestMethod]
-        public void Test_AddToCart_BeyondLimit()
+        public void Test_AddToCart_BeyondLimit() //Testar att lägga till för många biljetter
         {
             for (int i = 0; i < _shoppingCart.TicketLimit; i++)
             {
@@ -54,7 +54,7 @@ namespace TicketShopTest
         }
 
         [TestMethod]
-        public void Test_TimeLimit_Exceeded()
+        public void Test_TimeLimit_Exceeded()  //Testar om det går att boka efter att tidsgränsen gått ut
         {
             _shoppingCart.StartTimeLimit();
             Thread.Sleep(11000); // Sleep for 11 seconds to exceed the time limit
@@ -63,7 +63,7 @@ namespace TicketShopTest
         }
 
         [TestMethod]
-        public void Test_Payment_WithinTimeLimit()
+        public void Test_Payment_WithinTimeLimit() //Testar att lägga till inom tidsramen
         {
             _shoppingCart.StartTimeLimit();
             _shoppingCart.AddToCart(1, 1, "A");
@@ -74,7 +74,7 @@ namespace TicketShopTest
         }
 
         [TestMethod]
-        public void Test_Payment_AfterTimeLimit()
+        public void Test_Payment_AfterTimeLimit() //testar betalning efter tidsgränsen
         {
             _shoppingCart.StartTimeLimit();
             _shoppingCart.AddToCart(1, 1, "A");
@@ -85,7 +85,7 @@ namespace TicketShopTest
         }
 
         [TestMethod]
-        public void Test_GetCost_Calculation()
+        public void Test_GetCost_Calculation() //Räknar ut totalt pris för biljetterna
         {
             _shoppingCart.AddToCart(1, 1, "A");
             _shoppingCart.AddToCart(2, 2, "A");
@@ -93,7 +93,7 @@ namespace TicketShopTest
         }
 
         [TestMethod]
-        public void Test_ReleaseTickets_OnDispose()
+        public void Test_ReleaseTickets_OnDispose() //Testar att släppa tillbaka biljetter
         {
             _shoppingCart.AddToCart(1, 1, "A");
             _shoppingCart.Dispose();
