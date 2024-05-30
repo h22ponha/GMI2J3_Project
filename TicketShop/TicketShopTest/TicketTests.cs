@@ -7,7 +7,7 @@ namespace TicketShopTest
     [TestClass]
     public class TicketTests
     {
-        // Testar att alla grundläggande egenskaper hos Ticket-instansen initieras korrekt
+        // Testar att grundläggande egenskaper hos Ticket-instansen initieras korrekt
         [TestMethod]
         public void CheckProperties()
         {
