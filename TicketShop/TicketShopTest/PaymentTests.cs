@@ -58,7 +58,7 @@ namespace PaymentTests
             }
         }
 
-        //Test där man skickar en faktura tii ett personkontot då man inte har tillräcklig med saldo för att betala fakturan
+        //Test där man skickar en faktura till ett personkontot då man inte har tillräcklig med saldo för att betala fakturan
         [TestMethod]
         public void SendInvoice_PaymentFails()
         {
@@ -79,6 +79,7 @@ namespace PaymentTests
             }
         }
 
+        //Testar när man betalar med ett ogiltigt saldo
         [TestClass]
         public class InvoicePaymentTests
         {
