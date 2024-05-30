@@ -18,7 +18,7 @@ public class PersonalAccount : IPersonalAccount
         AccountName = accountName;
         AccountBalance = balance;
     }
-    // Tar ut amount från kontot om det finns tillräckligt med pengar
+    // Tar ut amount från kontot om det finns tillräckligt med pengar i account
     public bool Withdraw(double amount)
     {
         if (AccountBalance >= amount)
