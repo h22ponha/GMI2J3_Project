@@ -1,0 +1,156 @@
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CopyComplete
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+C:\Users\Gusta\OneDrive - Högskolan Dalarna\HT 2023\GIK2XJ - Objektorienterad design och Problemlösning\project\vers 1\TicketShop-main\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CopyComplete
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+C:\Users\jonat\Documents\Kurser\GIK2XJ_OOD\Projektarbete\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.sourcelink.json
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketSh.BF69559D.Up2Date
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Castle.Core.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Moq.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Moq.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.sourcelink.json
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketSh.BF69559D.Up2Date
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+C:\Users\Kenny\Downloads\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Moq.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.sourcelink.json
+C:\Users\kenny\Downloads\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketSh.BF69559D.Up2Date
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Castle.Core.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Moq.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.sourcelink.json
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketSh.BF69559D.Up2Date
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Uppdaterad_Project\Project\Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.exe
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.deps.json
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.runtimeconfig.json
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Castle.Core.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\Moq.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\bin\Debug\net7.0\TicketShopClassLibrary.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.AssemblyReference.cache
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfoInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.AssemblyInfo.cs
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.csproj.CoreCompileInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.sourcelink.json
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketSh.BF69559D.Up2Date
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\refint\TicketShopConsole.dll
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\TicketShopConsole.genruntimeconfig.cache
+D:\Högskolan Dalarna\Mjukvarutestning\GMI2J3_Project\TicketShop\TicketShopConsole\obj\Debug\net7.0\ref\TicketShopConsole.dll

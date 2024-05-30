@@ -1,0 +1,13 @@
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\bin\Debug\net8.0\TicketShopClassLibrary.deps.json
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\bin\Debug\net8.0\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\bin\Debug\net8.0\TicketShopClassLibrary.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.AssemblyInfoInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.AssemblyInfo.cs
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.csproj.CoreCompileInputs.cache
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.sourcelink.json
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\refint\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.pdb
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\ref\TicketShopClassLibrary.dll
+D:\Högskolan Dalarna\Mjukvarutestning\Project\TicketShop\TicketShopClassLibrary\obj\Debug\net8.0\TicketShopClassLibrary.csproj.AssemblyReference.cache

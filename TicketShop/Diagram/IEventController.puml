@@ -1,0 +1,11 @@
+@startuml
+interface IEventController {
+    CreateEvent(eventDate:DateTime, eventName:string, eventLocation:ILocation, eventReleaseDate:DateTime) : void
+    GetAllEventInfo() : string
+    + GetAvailableTickets(eventName:string) : Dictionary<int, List<ITicket>>?
+    + GetEvent(eventName:string) : IEvent
+}
+class "List`1"<T> {
+}
+IEventController --> "ListOfEvents<IEvent>" "List`1"
+@enduml

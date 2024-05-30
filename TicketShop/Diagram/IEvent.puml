@@ -1,0 +1,11 @@
+@startuml
+interface IEvent {
+    EventId : string <<get>> <<set>>
+    EventName : string <<get>> <<set>>
+    + GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+}
+IEvent --> "EventDate" DateTime
+IEvent --> "EventReleaseDate" DateTime
+IEvent --> "EventLocation" ILocation
+@enduml

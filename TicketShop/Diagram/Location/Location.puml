@@ -1,0 +1,9 @@
+@startuml
+class Location {
+    + LocationName : string <<get>> <<set>>
+    + Capacity : int <<get>> <<set>>
+    + Address : string <<get>> <<set>>
+    + Location(rows:int, columns:int, name:string, address:string)
+}
+ILocation <|-- Location
+@enduml

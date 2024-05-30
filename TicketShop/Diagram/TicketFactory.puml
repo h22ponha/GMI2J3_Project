@@ -1,0 +1,5 @@
+@startuml
+class TicketFactory <<static>> {
+    + {static} CreateTickets(layout:int[,]) : Dictionary<int,List<ITicket>>
+}
+@enduml

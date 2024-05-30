@@ -1,0 +1,7 @@
+@startuml
+interface ILocation {
+    + LocationName : string <<get>> <<set>>
+    + Capacity : int <<get>> <<set>>
+    + Address : string <<get>> <<set>>
+}
+@enduml

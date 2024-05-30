@@ -1,0 +1,24 @@
+@startuml
+class ShoppingCart {
+    + CustomerName : string <<get>> <<set>>
+    + CustomerId : string <<get>> <<set>>
+    + TicketLimit : int <<get>> <<set>> = 5
+    - _bookingComplete : bool = false
+    + ShoppingCart(customer:Customer, eventToBook:IEvent)
+    + CheckNumberOfTickets() : bool
+    + TimeCountDown() : void
+    + StartTimeLimit() : void
+    + AddToCart(row:int, seat:int) : void
+    + HandlePayment(payment:IPayment, customer:Customer) : bool
+    - GetCost() : double
+    + ReleaseTickets() : void
+    + Dispose() : void
+}
+class "List`1"<T> {
+}
+IShoppingCart <|-- ShoppingCart
+IDisposable <|-- ShoppingCart
+ShoppingCart o-> "ListOfReservedTickets<ITicket>" "List`1"
+ShoppingCart --> "EventToBook" IEvent
+ShoppingCart --> "_timeLimit" DateTime
+@enduml

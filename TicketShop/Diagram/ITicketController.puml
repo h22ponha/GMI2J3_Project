@@ -1,0 +1,9 @@
+@startuml
+interface ITicketController {
+    GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+}
+class "Dictionary`2"<T1,T2> {
+}
+ITicketController --> "DictOfTickets<int,List<ITicket>>" "Dictionary`2"
+@enduml

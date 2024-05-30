@@ -1,0 +1,9 @@
+@startuml
+interface ITicket {
+    TicketId : string <<get>> <<set>>
+    IsReserved : bool <<get>> <<set>>
+    SeatRow : int <<get>> <<set>>
+    SeatNumber : int <<get>> <<set>>
+}
+ITicket --> "PurchaseDate" DateTime
+@enduml

@@ -1,0 +1,160 @@
+@startuml
+class Admin {
+    + UserName : string = "Admin"
+}
+class Customer {
+    + CustomerId : string <<get>> <<set>>
+    + CustomerName : string <<get>> <<set>>
+    + CustomerEmail : string <<get>> <<set>>
+    + CustomerPhoneNumber : string <<get>> <<set>>
+    + AccountBalance : double <<get>>
+    + Customer(name:string, email:string, phoneNumber:string)
+    + Withdraw(amount:double) : bool
+    + Deposit(amount:double) : void
+}
+class Event {
+    + EventId : string <<get>> <<set>>
+    + EventName : string <<get>> <<set>>
+    + Event(eventLocation:ILocation, eventName:string, eventReleaseDate:DateTime, eventDate:DateTime)
+    + GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+    + <<override>> ToString() : string
+}
+IEvent <|-- Event
+Event --> "EventDate" DateTime
+Event --> "EventLocation" ILocation
+Event --> "EventReleaseDate" DateTime
+Event --> "_ticketController" ITicketController
+class EventController {
+    + CreateEvent(eventDate:DateTime, eventName:string, eventLocation:ILocation, eventReleaseDate:DateTime) : void
+    + GetAllEventInfo() : string
+    + GetAvailableTickets(eventName:string) : Dictionary<int, List<ITicket>>?
+    + GetEvent(eventName:string) : IEvent?
+}
+class "List`1"<T> {
+}
+IEventController <|-- EventController
+EventController o-> "ListOfEvents<IEvent>" "List`1"
+interface ICustomer {
+    + CustomerId : string <<get>> <<set>>
+    + CustomerName : string <<get>> <<set>>
+    + CustomerEmail : string <<get>> <<set>>
+    + CustomerPhoneNumber : string <<get>> <<set>>
+    Deposit(amount:double) : void
+    Withdraw(amount:double) : void
+}
+interface IEvent {
+    EventId : string <<get>> <<set>>
+    EventName : string <<get>> <<set>>
+    + GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+}
+IEvent --> "EventDate" DateTime
+IEvent --> "EventReleaseDate" DateTime
+IEvent --> "EventLocation" ILocation
+interface IEventController {
+    CreateEvent(eventDate:DateTime, eventName:string, eventLocation:ILocation, eventReleaseDate:DateTime) : void
+    GetAllEventInfo() : string
+    + GetAvailableTickets(eventName:string) : Dictionary<int, List<ITicket>>?
+    + GetEvent(eventName:string) : IEvent
+}
+class "List`1"<T> {
+}
+IEventController --> "ListOfEvents<IEvent>" "List`1"
+interface ITicket {
+    TicketId : string <<get>> <<set>>
+    IsReserved : bool <<get>> <<set>>
+    SeatRow : int <<get>> <<set>>
+    SeatNumber : int <<get>> <<set>>
+}
+ITicket --> "PurchaseDate" DateTime
+interface ITicketController {
+    GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+}
+class "Dictionary`2"<T1,T2> {
+}
+ITicketController --> "DictOfTickets<int,List<ITicket>>" "Dictionary`2"
+class Ticket {
+    + TicketId : string <<get>> <<set>>
+    + IsReserved : bool <<get>> <<set>> = false
+    + SeatRow : int <<get>> <<set>>
+    + SeatNumber : int <<get>> <<set>>
+    + Ticket(seatRow:int, seatColumn:int)
+    + <<override>> ToString() : string
+}
+ITicket <|-- Ticket
+Ticket --> "PurchaseDate" DateTime
+class TicketController {
+    + TicketController(location:ILocation)
+    + GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+}
+class "Dictionary`2"<T1,T2> {
+}
+ITicketController <|-- TicketController
+TicketController o-> "DictOfTickets<int,List<ITicket>>" "Dictionary`2"
+class TicketFactory <<static>> {
+    + {static} CreateTickets(layout:int[,]) : Dictionary<int,List<ITicket>>
+}
+interface IShoppingCart {
+    + CustomerName : string <<get>> <<set>>
+    + CustomerId : string <<get>> <<set>>
+    TicketLimit : int <<get>> <<set>>
+    AddToCart(row:int, seat:int) : void
+    CheckNumberOfTickets() : bool
+    Dispose() : void
+    HandlePayment(payment:IPayment, customer:Customer) : bool
+    ReleaseTickets() : void
+    StartTimeLimit() : void
+}
+class "List`1"<T> {
+}
+IShoppingCart --> "ListOfReservedTickets<ITicket>" "List`1"
+IShoppingCart --> "EventToBook" IEvent
+class ShoppingCart {
+    + CustomerName : string <<get>> <<set>>
+    + CustomerId : string <<get>> <<set>>
+    + TicketLimit : int <<get>> <<set>> = 5
+    - _bookingComplete : bool = false
+    + ShoppingCart(customer:Customer, eventToBook:IEvent)
+    + CheckNumberOfTickets() : bool
+    + TimeCountDown() : void
+    + StartTimeLimit() : void
+    + AddToCart(row:int, seat:int) : void
+    + HandlePayment(payment:IPayment, customer:Customer) : bool
+    - GetCost() : double
+    + ReleaseTickets() : void
+    + Dispose() : void
+}
+class "List`1"<T> {
+}
+IShoppingCart <|-- ShoppingCart
+IDisposable <|-- ShoppingCart
+ShoppingCart o-> "ListOfReservedTickets<ITicket>" "List`1"
+ShoppingCart --> "EventToBook" IEvent
+ShoppingCart --> "_timeLimit" DateTime
+interface ILocation {
+    + LocationName : string <<get>> <<set>>
+    + Capacity : int <<get>> <<set>>
+    + Address : string <<get>> <<set>>
+}
+class Location {
+    + LocationName : string <<get>> <<set>>
+    + Capacity : int <<get>> <<set>>
+    + Address : string <<get>> <<set>>
+    + Location(rows:int, columns:int, name:string, address:string)
+}
+ILocation <|-- Location
+class InvoicePayment {
+    + Pay(amount:double, customer:Customer) : bool
+}
+IPayment <|-- InvoicePayment
+interface IPayment {
+    Pay(amount:double, customer:Customer) : bool
+}
+class SwishPayment {
+    + Pay(amount:double, customer:Customer) : bool
+}
+IPayment <|-- SwishPayment
+@enduml

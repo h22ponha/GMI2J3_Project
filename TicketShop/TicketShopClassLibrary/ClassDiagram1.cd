@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TicketShopClassLibrary.ShoppingCart" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAgMAAACAAAAAAEAAAAAAAEAAAAAIAAAAAAAAAECA=</HashCode>
+      <FileName>ShoppingCart\ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.Location" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAACAAAAAAACAEAAAAAAAAA=</HashCode>
+      <FileName>Location\Location.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.InvoicePayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaymentMethods\InvoicePayment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.SwishPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaymentMethods\SwishPayment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.Customer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAAAAAIAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.Event" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAQAEAAAAAAAAAIEAAAAAAAAAAABAAIA=</HashCode>
+      <FileName>Event\Event.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.EventController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAEAAAAAAA=</HashCode>
+      <FileName>Event\EventController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.Ticket" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAEAAAEAIAAAAAAAAIAABAAAAAAAIAAAAA=</HashCode>
+      <FileName>Ticket\Ticket.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.TicketController" BaseTypeListCollapsed="true">
+    <Position X="2" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAAAAAIA=</HashCode>
+      <FileName>Ticket\TicketController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TicketShopClassLibrary.TicketFactory" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\TicketFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="TicketShopClassLibrary.IShoppingCart">
+    <Position X="1.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CQAAgEAAACAAAAAAEAAAAAAAEAAAAAIAAAAAAAAAACA=</HashCode>
+      <FileName>ShoppingCart\IShoppingCart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.ILocation">
+    <Position X="13.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAACAAAAAAACAEAAAAAAAAA=</HashCode>
+      <FileName>Location\ILocation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.IPayment">
+    <Position X="11.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaymentMethods\IPayment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.ICustomer">
+    <Position X="8.5" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAAAAAIAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer\ICustomer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.IEvent">
+    <Position X="11.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAQAEAAAAAAAAAIAAAAAAAAAAAABAAIA=</HashCode>
+      <FileName>Event\IEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.IEventController">
+    <Position X="15.5" Y="4.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAEAAAAAAA=</HashCode>
+      <FileName>Event\IEventController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.ITicket">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAEAAAAAIAAAAAAAAIAABAAAAAAAIAAAAA=</HashCode>
+      <FileName>Ticket\ITicket.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TicketShopClassLibrary.ITicketController">
+    <Position X="4.75" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAAAAAIA=</HashCode>
+      <FileName>Ticket\ITicketController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

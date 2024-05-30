@@ -1,0 +1,12 @@
+@startuml
+class Customer {
+    + CustomerId : string <<get>> <<set>>
+    + CustomerName : string <<get>> <<set>>
+    + CustomerEmail : string <<get>> <<set>>
+    + CustomerPhoneNumber : string <<get>> <<set>>
+    + AccountBalance : double <<get>>
+    + Customer(name:string, email:string, phoneNumber:string)
+    + Withdraw(amount:double) : bool
+    + Deposit(amount:double) : void
+}
+@enduml

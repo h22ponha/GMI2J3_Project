@@ -1,0 +1,6 @@
+@startuml
+class InvoicePayment {
+    + Pay(amount:double, customer:Customer) : bool
+}
+IPayment <|-- InvoicePayment
+@enduml

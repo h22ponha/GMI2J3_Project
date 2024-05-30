@@ -1,0 +1,10 @@
+@startuml
+interface ICustomer {
+    + CustomerId : string <<get>> <<set>>
+    + CustomerName : string <<get>> <<set>>
+    + CustomerEmail : string <<get>> <<set>>
+    + CustomerPhoneNumber : string <<get>> <<set>>
+    Deposit(amount:double) : void
+    Withdraw(amount:double) : void
+}
+@enduml

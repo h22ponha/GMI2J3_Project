@@ -1,0 +1,15 @@
+@startuml
+class Event {
+    + EventId : string <<get>> <<set>>
+    + EventName : string <<get>> <<set>>
+    + Event(eventLocation:ILocation, eventName:string, eventReleaseDate:DateTime, eventDate:DateTime)
+    + GetAvailableTickets() : Dictionary<int, List<ITicket>>
+    + ReserveTicket(row:int, seat:int) : ITicket
+    + <<override>> ToString() : string
+}
+IEvent <|-- Event
+Event --> "EventDate" DateTime
+Event --> "EventLocation" ILocation
+Event --> "EventReleaseDate" DateTime
+Event --> "_ticketController" ITicketController
+@enduml

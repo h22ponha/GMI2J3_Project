@@ -1,0 +1,5 @@
+@startuml
+interface IPayment {
+    Pay(amount:double, customer:Customer) : bool
+}
+@enduml

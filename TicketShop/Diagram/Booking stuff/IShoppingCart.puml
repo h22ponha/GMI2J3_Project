@@ -1,0 +1,17 @@
+@startuml
+interface IShoppingCart {
+    + CustomerName : string <<get>> <<set>>
+    + CustomerId : string <<get>> <<set>>
+    TicketLimit : int <<get>> <<set>>
+    AddToCart(row:int, seat:int) : void
+    CheckNumberOfTickets() : bool
+    Dispose() : void
+    HandlePayment(payment:IPayment, customer:Customer) : bool
+    ReleaseTickets() : void
+    StartTimeLimit() : void
+}
+class "List`1"<T> {
+}
+IShoppingCart --> "ListOfReservedTickets<ITicket>" "List`1"
+IShoppingCart --> "EventToBook" IEvent
+@enduml
